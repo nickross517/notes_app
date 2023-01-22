@@ -1,5 +1,9 @@
-# notes_app
 app for notes made in flask and run in Docker (or a venv if you want).
+
+<img width="1507" alt="Screenshot 2023-01-22 at 5 27 03 PM" src="https://user-images.githubusercontent.com/87843056/213943880-bd7c1f71-006d-4f1e-8786-a73c78b42b21.png">
+
+<img width="1507" alt="Screenshot 2023-01-22 at 5 31 30 PM" src="https://user-images.githubusercontent.com/87843056/213943878-c1091950-b9ed-44a9-9860-cbccb6613a10.png">
+
 
 Quick start with Docker:
 
