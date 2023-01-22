@@ -18,5 +18,6 @@ Quick start using a virtual environment
 2. Start a new python virtual environment 
 3. Run pip install -r requirements.txt 
 4. Run main.py with python 
-5. ...
-6. profit?
+5. open "http://localhost:3000/sign-up"
+6. ...
+7. profit?
